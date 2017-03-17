@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-static-web-server",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "scripts" : {
+    "start" : "node server.js"
+  },
+  "repository":
+  {
+	"type" : "git",
+	"url" : "https://github.com/BridgeLabzSource/pinupAPISwagger.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "connect": "2.19.6"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
